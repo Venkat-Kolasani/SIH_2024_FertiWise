@@ -1,4 +1,4 @@
-SIH Problem Statement 1639<br>
+
 Problem Statement Title	: Sustainable Fertilizer Usage Optimizer for Higher Yield<br>
 <p>Problem Description	: <br>
 Background: Excessive and improper use of fertilizers leads to soil degradation and reduced agricultural productivity, negatively impacting farmers’ income. <br>
