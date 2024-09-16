@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FertiWise - Fertilizer Prediction</title>
+    <link rel="stylesheet" href="prediction.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <header class="navbar">
+        <div class="logo">
+            <img src="logo.jpg" alt="FertiWise Logo" class="logo-img">
+            <h1>FertiWise</h1>
+        </div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="prediction.html">Prediction</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Prediction Section -->
+    <section class="prediction-section">
+        <h2>Fertilizer Usage Optimizer</h2>
+        <p>Provide your field data to get optimal fertilizer recommendations.</p>
+
+        <form action="results.html" method="GET" class="prediction-form"> <!-- Changed method to GET for easy testing -->
+            <div class="form-group">
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="location" placeholder="Enter your location" required>
+            </div>
+
+            <div class="form-group">
+                <label for="pincode">Pincode:</label>
+                <input type="text" id="pincode" name="pincode" placeholder="Enter your pincode" required>
+            </div>
+
+            <div class="form-group">
+                <label for="crop-type">Crop Type:</label>
+                <select id="crop-type" name="crop-type" required>
+                    <option value="">Select Crop Type</option>
+                    <option value="rice">Rice</option>
+                    <option value="wheat">Wheat</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="farming-type">Farming Type:</label>
+                <select id="farming-type" name="farming-type" required>
+                    <option value="">Select Farming Type</option>
+                    <option value="organic">Organic</option>
+                    <option value="conventional">Conventional</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="irrigation">Irrigation Type:</label>
+                <select id="irrigation" name="irrigation" required>
+                    <option value="">Select Irrigation Type</option>
+                    <option value="drip">Drip</option>
+                    <option value="sprinkler">Sprinkler</option>
+                    <option value="flood">Flood</option>
+                    <option value="rain-fed">Rain-Fed</option>
+                </select>
+            </div>
+
+           <!--<button type="submit" class="submit-btn">Get Recommendation</button>-->
+            <a href="results.html" class="submit-btn">Get Recommendation</a>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 FertiWise | Revolutionizing Agriculture through Smart Fertilization</p>
+    </footer>
+</body>
+</html>
