@@ -1,0 +1,61 @@
+Crop Type,Farming Type,Irrigation Type,Pincode,Location (State),Nitrogen (N),Phosphorus (P),Potassium (K),Disease (Bacterial Blight),Fertilizer Type,Fertilizer Quantity (kg/ha),Time of Application (Stage),Sustainable Measures
+Rice,Organic,Drip,110001,Delhi,150,30,40,Yes,Urea,100,Tillering Stage,Crop Rotation
+Rice,Conventional,Flood,400001,Maharashtra,140,35,30,Yes,Ammonium Sulfate,80,Vegetative Stage,Green Manure
+Rice,Organic,Sprinkler,600001,Tamil Nadu,170,20,35,No,DAP,60,Panicle Initiation,Mulching
+Rice,Conventional,Drip,500001,Telangana,160,25,25,Yes,NPK Complex,90,Early Growth,Crop Diversification
+Rice,Conventional,Flood,700001,West Bengal,155,40,20,Yes,Urea,110,Reproductive Stage,Integrated Pest Mgmt
+Rice,Organic,Drip,110002,Delhi,165,30,35,Yes,Ammonium Sulfate,95,Vegetative Stage,Organic Fertilizer
+Rice,Conventional,Sprinkler,600002,Tamil Nadu,145,25,25,No,NPK Complex,80,Panicle Initiation,Agroforestry
+Rice,Conventional,Flood,700002,West Bengal,135,35,20,Yes,Urea,120,Early Growth,Crop Rotation
+Rice,Organic,Drip,500002,Telangana,150,30,25,Yes,Ammonium Sulfate,85,Tillering Stage,Green Manure
+Rice,Organic,Sprinkler,600003,Tamil Nadu,160,20,35,No,DAP,65,Reproductive Stage,Mulching
+Rice,Conventional,Flood,400002,Maharashtra,170,35,30,Yes,Urea,105,Panicle Initiation,Crop Diversification
+Rice,Organic,Drip,110003,Delhi,145,30,25,Yes,NPK Complex,90,Vegetative Stage,Organic Fertilizer
+Rice,Conventional,Sprinkler,500003,Telangana,155,25,35,No,Ammonium Sulfate,75,Early Growth,Integrated Pest Mgmt
+Rice,Organic,Flood,700003,West Bengal,150,40,30,Yes,Urea,115,Tillering Stage,Agroforestry
+Rice,Conventional,Drip,600004,Tamil Nadu,135,30,35,Yes,Ammonium Sulfate,100,Reproductive Stage,Crop Rotation
+Rice,Organic,Flood,400003,Maharashtra,170,35,20,Yes,Urea,120,Vegetative Stage,Green Manure
+Rice,Conventional,Sprinkler,500004,Telangana,160,25,30,No,NPK Complex,65,Panicle Initiation,Mulching
+Rice,Organic,Drip,110004,Delhi,150,30,40,Yes,Ammonium Sulfate,95,Early Growth,Crop Diversification
+Rice,Conventional,Flood,600005,Tamil Nadu,145,35,25,Yes,Urea,105,Tillering Stage,Organic Fertilizer
+Rice,Organic,Sprinkler,700004,West Bengal,155,25,35,No,Ammonium Sulfate,85,Reproductive Stage,Integrated Pest Mgmt
+Rice,Conventional,Flood,400004,Maharashtra,160,20,35,Yes,DAP,90,Vegetative Stage,Agroforestry
+Rice,Organic,Drip,110005,Delhi,165,30,25,Yes,Urea,110,Early Growth,Crop Rotation
+Rice,Conventional,Sprinkler,500005,Telangana,170,35,30,No,NPK Complex,70,Panicle Initiation,Green Manure
+Rice,Organic,Flood,700005,West Bengal,140,25,25,Yes,Ammonium Sulfate,95,Reproductive Stage,Mulching
+Rice,Conventional,Drip,400005,Maharashtra,135,40,30,Yes,Urea,120,Vegetative Stage,
+Rice,Conventional,Flood,400006,Maharashtra,150,25,30,Yes,Urea,85,Vegetative Stage,Green Manure
+Rice,Organic,Sprinkler,600006,Tamil Nadu,145,35,20,No,DAP,70,Panicle Initiation,Mulching
+Rice,Conventional,Drip,500006,Telangana,155,30,35,Yes,NPK Complex,95,Early Growth,Crop Diversification
+Rice,Organic,Flood,700006,West Bengal,140,30,25,Yes,Urea,110,Reproductive Stage,Integrated Pest Mgmt
+Rice,Conventional,Drip,110007,Delhi,170,20,30,Yes,Ammonium Sulfate,90,Vegetative Stage,Organic Fertilizer
+Rice,Organic,Sprinkler,600007,Tamil Nadu,150,35,40,No,NPK Complex,85,Panicle Initiation,Agroforestry
+Rice,Conventional,Flood,700007,West Bengal,160,25,20,Yes,Urea,115,Early Growth,Crop Rotation
+Rice,Organic,Drip,500007,Telangana,135,30,25,Yes,Ammonium Sulfate,105,Tillering Stage,Green Manure
+Rice,Conventional,Sprinkler,400007,Maharashtra,165,35,35,No,DAP,60,Reproductive Stage,Mulching
+Rice,Organic,Flood,110008,Delhi,150,20,30,Yes,Urea,95,Panicle Initiation,Crop Diversification
+Rice,Conventional,Drip,600008,Tamil Nadu,145,30,40,Yes,Ammonium Sulfate,100,Vegetative Stage,Organic Fertilizer
+Rice,Organic,Sprinkler,500008,Telangana,170,35,25,No,NPK Complex,70,Early Growth,Integrated Pest Mgmt
+Rice,Conventional,Flood,700008,West Bengal,160,25,30,Yes,Urea,120,Reproductive Stage,Agroforestry
+Rice,Organic,Drip,400008,Maharashtra,140,35,40,Yes,Ammonium Sulfate,90,Tillering Stage,Crop Rotation
+Rice,Conventional,Sprinkler,110009,Delhi,150,30,25,No,Urea,85,Vegetative Stage,Green Manure
+Rice,Organic,Flood,600009,Tamil Nadu,160,35,20,Yes,DAP,95,Panicle Initiation,Mulching
+Rice,Conventional,Drip,500009,Telangana,135,25,35,Yes,NPK Complex,110,Early Growth,Crop Diversification
+Rice,Organic,Sprinkler,700009,West Bengal,170,30,40,Yes,Ammonium Sulfate,115,Reproductive Stage,Integrated Pest Mgmt
+Rice,Conventional,Flood,400009,Maharashtra,145,20,25,No,Urea,100,Tillering Stage,Agroforestry
+Rice,Organic,Drip,110010,Delhi,160,25,35,Yes,NPK Complex,75,Panicle Initiation,Crop Rotation
+Rice,Conventional,Sprinkler,500010,Telangana,150,30,30,No,Ammonium Sulfate,90,Reproductive Stage,Green Manure
+Rice,Organic,Flood,600010,Tamil Nadu,135,35,40,Yes,Urea,115,Vegetative Stage,Mulching
+Rice,Conventional,Drip,700010,West Bengal,170,25,25,Yes,DAP,80,Early Growth,Crop Diversification
+Rice,Organic,Sprinkler,400010,Maharashtra,145,30,20,Yes,NPK Complex,105,Tillering Stage,Organic Fertilizer
+Rice,Conventional,Flood,110011,Delhi,160,25,30,No,Ammonium Sulfate,95,Reproductive Stage,Integrated Pest Mgmt
+Rice,Organic,Drip,600011,Tamil Nadu,150,20,35,Yes,Urea,110,Vegetative Stage,Agroforestry
+Rice,Conventional,Sprinkler,500011,Telangana,135,30,25,Yes,NPK Complex,85,Early Growth,Crop Rotation
+Rice,Organic,Flood,700011,West Bengal,140,35,30,Yes,DAP,95,Reproductive Stage,Green Manure
+Rice,Conventional,Drip,400011,Maharashtra,160,25,35,No,Ammonium Sulfate,75,Panicle Initiation,Mulching
+Rice,Organic,Sprinkler,110012,Delhi,145,30,20,Yes,Urea,115,Tillering Stage,Crop Diversification
+Rice,Conventional,Flood,600012,Tamil Nadu,170,25,25,Yes,NPK Complex,90,Vegetative Stage,Organic Fertilizer
+Rice,Organic,Drip,500012,Telangana,150,35,40,Yes,Ammonium Sulfate,80,Reproductive Stage,Integrated Pest Mgmt
+Rice,Conventional,Sprinkler,700012,West Bengal,135,30,30,No,Urea,100,Panicle Initiation,Agroforestry
+Rice,Organic,Flood,400012,Maharashtra,145,20,35,Yes,DAP,70,Early Growth,Crop Rotation
+Rice,Conventional,Drip,110013,Delhi,160,25,25,Yes,NPK Complex,90,,
