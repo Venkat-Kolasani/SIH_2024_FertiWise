@@ -1,1 +1,2 @@
-Please open the Figma link to view our Mobile App Prototype : https://www.figma.com/design/9TAuQ8xmJUFdC5vXElfxjc/FertiWise-App?node-id=0-1&t=f7HjGcd8nrUUlrF8-1
+Please open the Figma link to view our Mobile App Prototype : <a href="https://www.figma.com/design/9TAuQ8xmJUFdC5vXElfxjc/FertiWise-App?node-id=0-1&t=f7HjGcd8nrUUlrF8-1"></a>
+
